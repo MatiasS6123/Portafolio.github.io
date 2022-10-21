@@ -1,0 +1,10 @@
+.nav{
+    justify-content: space-between;
+    padding: 2rem;
+}
+.nav-item-a{
+    margin-right: 2rem;
+}
+.nav-item-a-title{
+    font-size: 1rem;
+}

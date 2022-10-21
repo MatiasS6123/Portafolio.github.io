@@ -1,0 +1,10 @@
+.main-about {
+    background-color: var(--background-secundary);
+    text-align: left;
+    padding: 5rem;
+    margin: auto;
+}
+
+.about-div {
+    width: 55vw;
+}

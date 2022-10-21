@@ -1,0 +1,19 @@
+.academic-trainig{
+    background: var(--background-secundary);
+}
+.academic-trainig-section .card-academic{
+    text-align: center;
+    padding: .7rem;
+    width: 30%;
+}
+
+.card-academic .articulo-galeria-img{
+    margin: auto;
+    width: 20vh;
+    height: 20vh;
+}
+
+.card-academic .articulo-galeria-img img{
+    margin: 2rem;
+    width: 50%;
+}

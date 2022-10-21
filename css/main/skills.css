@@ -1,0 +1,19 @@
+.main-title-about{
+    text-align: center;
+    padding: 2rem;
+}
+
+.main-title-about::first-letter{
+    text-transform: uppercase;
+}
+
+.hobbies .galeria .articulo-galeria,
+.skills .galeria .articulo-galeria {
+    width: 15%;
+    padding: 3rem 0 0 .7rem;
+}
+
+.main__hobbies .gallery .article__gallery img,
+.main__skills .gallery .article__gallery img {
+    width: 3vw;
+}
